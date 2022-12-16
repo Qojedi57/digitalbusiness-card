@@ -1,4 +1,4 @@
-import me from './assets/Imageofmyself.jpg'
+import me from '../assets/Imageofmyself.jpg';
 function Topsection(){
     return (
         <>
